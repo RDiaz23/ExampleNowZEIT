@@ -1,0 +1,79 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "external \"react\"": 0,
+      "external \"styled-jsx/style\"": 1,
+      "external \"@babel/runtime/regenerator\"": 2,
+      "external \"next/link\"": 3,
+      "external \"isomorphic-fetch\"": 4,
+      "multi ./pages/about.js": 5,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/about.js": 6,
+      "multi ./pages/channel.js": 7,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/channel.js": 8,
+      "multi ./pages/index.js": 9,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/index.js": 10,
+      "multi node_modules/next/dist/pages/_app.js": 11,
+      "node_modules/next/dist/pages/_app.js": 12,
+      "external \"next/app\"": 13,
+      "multi node_modules/next/dist/pages/_error.js": 14,
+      "node_modules/next/dist/pages/_error.js": 15,
+      "external \"next/error\"": 16,
+      "multi node_modules/next/dist/pages/_document.js": 17,
+      "node_modules/next/dist/pages/_document.js": 18,
+      "external \"next/document\"": 19
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7,
+      "8": 8,
+      "9": 9,
+      "10": 10,
+      "11": 11,
+      "12": 12,
+      "13": 13,
+      "14": 14,
+      "15": 15,
+      "16": 16,
+      "17": 17,
+      "18": 18,
+      "19": 19
+    }
+  },
+  "chunks": {
+    "byName": {
+      "static\\u_ZCXvjikFiv81eQKyc8l\\pages\\about.js": 0,
+      "static\\u_ZCXvjikFiv81eQKyc8l\\pages\\channel.js": 1,
+      "static\\u_ZCXvjikFiv81eQKyc8l\\pages\\index.js": 2,
+      "static\\u_ZCXvjikFiv81eQKyc8l\\pages\\_app.js": 3,
+      "static\\u_ZCXvjikFiv81eQKyc8l\\pages\\_error.js": 4,
+      "static\\u_ZCXvjikFiv81eQKyc8l\\pages\\_document.js": 5,
+      "static\\KB5nfTLs4_IBJ_9_ztfPW\\pages\\about.js": 6,
+      "static\\KB5nfTLs4_IBJ_9_ztfPW\\pages\\channel.js": 7,
+      "static\\KB5nfTLs4_IBJ_9_ztfPW\\pages\\index.js": 8,
+      "static\\KB5nfTLs4_IBJ_9_ztfPW\\pages\\_app.js": 9,
+      "static\\KB5nfTLs4_IBJ_9_ztfPW\\pages\\_error.js": 10,
+      "static\\KB5nfTLs4_IBJ_9_ztfPW\\pages\\_document.js": 11,
+      "static\\yI1r_8LogevscwmFA8E6t\\pages\\about.js": 0,
+      "static\\yI1r_8LogevscwmFA8E6t\\pages\\channel.js": 1,
+      "static\\yI1r_8LogevscwmFA8E6t\\pages\\index.js": 2,
+      "static\\yI1r_8LogevscwmFA8E6t\\pages\\_app.js": 3,
+      "static\\yI1r_8LogevscwmFA8E6t\\pages\\_error.js": 4,
+      "static\\yI1r_8LogevscwmFA8E6t\\pages\\_document.js": 5
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  }
+}
